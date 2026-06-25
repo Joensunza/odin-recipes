@@ -1,0 +1,20 @@
+*{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    background-color:bisque
+}
+
+a{
+    text-decoration:none;
+    font-size:1.5rem;
+    color:rgb(12, 71, 71);
+    cursor:pointer;
+    display:inline-block;
+}
+
+a:hover{
+    color:rgb(68, 205, 136);
+    
+}
+li{
+    list-style-type:none;
+}
